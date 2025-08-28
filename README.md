@@ -1,7 +1,13 @@
-<!-- 🚀 Futuristic GitHub Profile README with Glassmorphism & Animations -->
+<!-- ⚡ Futuristic Neon Synthwave GitHub Profile -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F0FF&center=true&vCenter=true&lines=Hey+👋+I'm+Gaurang;AI+%26+ML+Engineer;Data+Science+Enthusiast;Android+Developer;UI%2FUX+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=FF00FF&center=true&vCenter=true&lines=Hey+👋+I'm+Gaurang;AI+%26+ML+Engineer;Data+Science+Enthusiast;Android+Developer;UI%2FUX+Explorer" alt="Typing SVG" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.ibb.co/tmMC7rh/retro-banner.gif" width="100%" alt="Neon Futuristic Banner" />
 </p>
 
 ---
@@ -10,17 +16,16 @@
 
 <div align="center">
 
-🧑‍🎓 Pursuing **B.E. in Computer Engineering (AI & ML)** at **D.Y. Patil University**  
+🧑‍🎓 B.E. in **Computer Engineering (AI & ML)** at **D.Y. Patil University**  
 💻 Passionate about **Data Science, Android Development, and UI/UX Design**  
-🚀 Currently exploring **Machine Learning, Big Data (Hadoop, Hive, Spark)**  
-🛠️ Skilled in **Python, Java, Pandas, TensorFlow, Android Studio, and Jupyter Notebook**  
-🎨 Love creating **aesthetic designs on Canva & Figma**  
+🚀 Exploring **Machine Learning, Big Data (Hadoop, Hive, Spark)**  
+🎨 Blending **Code + Creativity + Futurism**  
 
 </div>
 
 ---
 
-## 🪞 Tech Stack (Glassmorphism Style)
+## 🪞 Tech Stack (Neon Glass Badges)  
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=00f0ff&labelColor=1a1a1a&color=1a1a1a" />
@@ -33,24 +38,11 @@
 
 ---
 
-## 🚀 Featured Projects  
+## ⚡ Stats in Neon  
 
 <p align="center">
-  <a href="https://github.com/gaurangrane/SnakeXenzia-Android">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gaurangrane&repo=SnakeXenzia-Android&theme=radical&bg_color=0d1117&title_color=00f0ff&icon_color=ff0088&text_color=ffffff&hide_border=true" />
-  </a>
-  <a href="https://github.com/gaurangrane/QuizApp-Java">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gaurangrane&repo=QuizApp-Java&theme=radical&bg_color=0d1117&title_color=00f0ff&icon_color=ff0088&text_color=ffffff&hide_border=true" />
-  </a>
-</p>
-
----
-
-## ⚡ GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurangrane&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff0088&text_color=ffffff" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurangrane&theme=radical&hide_border=true&background=0d1117&ring=ff0088&fire=00f0ff&currStreakLabel=ffffff" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurangrane&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00ff&icon_color=00f0ff&text_color=ffffff" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurangrane&theme=radical&hide_border=true&background=0d1117&ring=ff00ff&fire=00f0ff&currStreakLabel=ffffff" height="160"/>
 </p>
 
 ---
@@ -67,10 +59,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurang-r-452139209/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-ff00ff?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gaurangrane2004@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-00f0ff?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -78,15 +70,15 @@
 
 ## 🎭 Fun Facts  
 
-- 🎵 Music keeps me inspired while coding  
-- ✨ Love mixing **tech + art** in my projects  
-- 🐍 Always experimenting with **Python & ML models**  
-- 🎨 Designing is my stress-buster  
+- 🎵 Code with **Synthwave & Lo-Fi**  
+- 🌌 Obsessed with **Neon + Futuristic Design**  
+- 🐍 Experimenting with **AI & Python ML Models**  
+- ✨ Always mixing **art + logic** in projects  
 
 ---
 
 <div align="center">
   
-✨ *“Turning ideas into futuristic realities with code, design, and creativity.”* ✨  
+🌌 *"Code is my time machine. Design is my universe."* 🌌  
 
 </div>
