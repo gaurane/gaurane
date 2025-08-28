@@ -1,29 +1,28 @@
-<!-- Futuristic Banner -->
+<!-- Futuristic Banner with Title -->
 <p align="center">
   <img src="https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_1800/public/future_city0124192.jpg" 
        alt="Futuristic City Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi there, I'm Gaurang 🚀</h1>
+<h1 align="center">🌌 Welcome to My GitHub — Gaurang Rane 🚀</h1>
 
-<p align="center">
-  <em>
-    🎓 B.E. in Computer Engineering (AI & ML) at D.Y. Patil University <br>
-    💻 Passionate about Data Science, Android Development, and UI/UX Design <br>
-    🚀 Exploring Machine Learning, Big Data (Hadoop, Hive, Spark) <br>
-    🛠️ Skilled in Python, Java, Pandas, TensorFlow, Android Studio, Jupyter Notebook
-  </em>
-</p>
+---
+
+### 👋 About Me  
+🎓 B.E. in Computer Engineering (AI & ML) at D.Y. Patil University  
+💻 Passionate about Data Science, Android Development, and UI/UX Design  
+🚀 Exploring Machine Learning, Big Data (Hadoop, Hive, Spark)  
+🛠️ Skilled in **Python, Java, Pandas, TensorFlow, Android Studio, Jupyter Notebook**  
 
 ---
 
 ### 🔗 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurang-r-452139209/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gaurang.rane@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -37,8 +36,7 @@
 
 ---
 
-### 🌌 Aesthetic Touch (Glassmorphism + Glow)  
+### ✨ Fun Touch  
 <p align="center">
-  <img src="https://img.shields.io/badge/Futuristic-Vibes-ff00ff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=001f3f" />
+  <img src="https://img.shields.io/badge/Futuristic%20Vibes-Cyberpunk-ff00ff?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
