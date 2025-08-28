@@ -5,30 +5,34 @@
 </p>
 
 <h1 align="center">Hi, I'm Gaurang Rane 👋</h1>
-<p align="center">B.E. in Computer Engineering (AI & ML) | Passionate about Data Science & Android Development</p>
 
 ---
 
-### 🔹 About Me
-- 🎓 Student at D.Y. Patil University  
-- 💻 Skilled in Python, Java, Pandas, TensorFlow, Android Studio  
-- 🚀 Exploring Machine Learning, Big Data, and UI/UX Design  
+### 🚀 About Me  
+- 🎓 B.E. in Computer Engineering (AI & ML)  
+- 💻 Interested in Data Science, Android Development & UI/UX  
+- 🌱 Exploring Machine Learning & Big Data  
 
 ---
 
-### 🔗 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/gaurang-r-452139209/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:gaurang.rane@example.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" />
-  </a>
+### ⚡ GitHub Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GaurangRane&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurang-rane&show_icons=true&theme=default" height="180em" />
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
+
+---
+
+### 📫 Connect with Me  
+[LinkedIn](https://www.linkedin.com/in/gaurang-r-452139209/) | [Email](mailto:gaurang.rane@example.com)  
