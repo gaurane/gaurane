@@ -39,21 +39,19 @@
 
 ---
 
-### 🚀 Project Showcase
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gaurangrane&repo=SnakeXenzia&theme=transparent&hide_border=true&title_color=00ffcc&text_color=ffffff" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gaurangrane&repo=QuizApp&theme=transparent&hide_border=true&title_color=ff66ff&text_color=ffffff" />
-</p>
+### 🚀 Project Showcase  
+✨ Highlighting a few of my works (repos coming soon 🚧):  
+- 🐍 **Snake Xenzia Game (Android, Java)** → Classic Snake with animations.  
+- 📱 **Quiz App (Android, Java)** → Fun quiz app with trophy & confetti.  
+- 📝 **To-Do List App** → Sleek task manager with colorful UI.  
+- 🐶🐱 **Cat vs Dog Classifier** → Deep learning model using TensorFlow.  
+- 📊 **Big Data Experiments** → Hadoop, Hive, Spark workflows.  
 
 ---
 
 ### 🔮 Fun Extras
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=gaurangrane&limit=5&theme=transparent&combine_all_yearly_contributions=true&title_color=00f0ff&text_color=ffffff" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurangrane&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -68,5 +66,5 @@
 
 <!-- Futuristic Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
 </p>
