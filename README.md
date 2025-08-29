@@ -86,8 +86,10 @@
 </p>
 
 ### 📚 Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurangrane&layout=compact&theme=transparent&title_color=00f0ff&text_color=ffffff&hide_border=true" height="160" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </p>
 
 <!-- Neon divider -->
