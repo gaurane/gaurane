@@ -4,7 +4,7 @@
 
 <!-- Neon Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Gaurang+👋;AI+%26+ML+%7C+Android+%7C+Data+Science;Designing+glassy+%26+futuristic+experiences" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F0FF&center=true&vCenter=true&lines=Hey+👋+I'm+Gaurang;AI+%26+ML+Engineer;Data+Science+Enthusiast;Android+Developer;UI%2FUX+Explorer" alt="Typing SVG" />font=Orbitron&size=34&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Gaurang+👋;AI+%26+ML+%7C+Android+%7C+Data+Science;Designing+glassy+%26+futuristic+experiences" alt="Typing SVG" />
 </p>
 
 <!-- Glassy banner divider -->
