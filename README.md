@@ -78,16 +78,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <h3>🐶🐱 Cat vs Dog Classifier</h3>
-      <p><img src="https://img.shields.io/badge/Python-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></p>
-      <p><sub>Image classification with augmentation & reports.</sub></p>
-    </td>
-    <td width="50%" align="center">
-      <h3>📊 Big Data Labs</h3>
-      <p><img src="https://img.shields.io/badge/Hadoop%20•%20Hive%20•%20Spark-Labs-8ecae6?style=for-the-badge&logo=apache&logoColor=000"/></p>
-      <p><sub>ETL, Hive queries, Spark log analysis, DataFrame ops.</sub></p>
-    </td>
+     
   </tr>
 </table>
 </div>
