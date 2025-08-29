@@ -31,11 +31,11 @@
 
 ## 🌌 About Me
 
-- 🎓 Pursuing *B.E. in Computer Engineering (AI & ML)* @ D.Y. Patil University  
-- 💻 Passionate about *Data Science, Android Development, and UI/UX*  
-- 🚀 Exploring *Machine Learning & Big Data (Hadoop • Hive • Spark)*  
-- 🧰 Tools I love: *Python, Java, TensorFlow, Pandas, Android Studio, Jupyter*  
-- 🎨 Aesthetic: *Glassmorphism + Neon*  
+- 🎓 Pursuing B.E. in Computer Engineering (AI & ML) @ D.Y. Patil University  
+- 💻 Passionate about Data Science, Android Development, and UI/UX  
+- 🚀 Exploring Machine Learning & Big Data (Hadoop • Hive • Spark)  
+- 🧰 Tools I love: Python, Java, TensorFlow, Pandas, Android Studio, Jupyter  
+- 🎨 Aesthetic: Glassmorphism + Neon  
 
 > “Transforming ideas into code, and code into impact.”
 
@@ -77,22 +77,12 @@
       <p><sub><i>Repo coming soon</i> • Result analytics • Clean code</sub></p>
     </td>
   </tr>
-  <tr>
-     
-  </tr>
 </table>
 </div>
 
 <!-- Neon divider -->
 <p align="center">
   <img src="https://img.shields.io/badge/-✦-00F0FF?style=flat-square&labelColor=0d1117&color=0d1117">
-</p>
-
-## 🪟 Glassmorphic Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurangrane&show_icons=true&theme=transparent&hide_border=true&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff" height="170" />
-  <img src="https://streak-stats.demolab.com?user=gaurangrane&theme=transparent&hide_border=true&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" height="170" />
 </p>
 
 ### 📚 Languages
