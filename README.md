@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/-✦-00F0FF?style=flat-square&labelColor=0d1117&color=0d1117">
 </p>
 
-## ⚡ Tech Stack (Glassy)
+## ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,tensorflow,androidstudio,git,github,vscode,figma,linux,mysql,html,css&perline=7" />
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/-✦-00F0FF?style=flat-square&labelColor=0d1117&color=0d1117">
 </p>
 
-## 🧭 Dashboard (Cards)
+## 🧭 Dashboard
 
 <div align="center">
 <table>
@@ -97,7 +97,7 @@
   <img src="https://img.shields.io/badge/-✦-00F0FF?style=flat-square&labelColor=0d1117&color=0d1117">
 </p>
 
-## 🔮 Activity (Always Works)
+## 🔮 Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurangrane&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
