@@ -1,69 +1,104 @@
-# 💫 About Me:
-👋 Hi there! I'm Gaurang  
+<!--
+    Gaurang's Portfolio README
+    Designed for max impact. Clean, modern, playful.
+-->
 
-🔭 *I’m currently working on*  
-- An Android To-Do List app (*TaskZen*)  
-- AI + ML based projects (Waste Classification, Battery Health Estimation)  
-- Fun side-projects like games (*Snake Xenzia, Retro Shmup*)  
+<div align="center">
 
-🤝 *I’m looking to collaborate on*  
-- Open-source AI/ML projects  
-- Android app development  
-- Creative web apps & games  
+<img width="120" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="Hi! I'm Gaurang">
 
-👐 *I’m looking for help with*  
-- Improving deep learning deployment on mobile  
-- Best practices for large project structuring  
-- UI/UX design for apps  
+# 🌌 Gaurang Rane
+## 🦄 Code. Create. Curate.
 
-🌱 *I’m currently learning*  
-- Advanced Android Development (*Java + Kotlin*)  
-- YOLO & Object Detection models  
-- Data Visualization & Storytelling  
-
-💬 *Ask me about*  
-- Android app development  
-- AI/ML project ideas  
-- Making cool side projects from scratch  
-
-⚡ *Fun fact*  
-I love turning random ideas into working apps 🚀  
-
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gaurane&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=gaurane&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurane&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gaurane&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
-
-
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)  
-
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gaurane&icon=10&color=0)](https://visitcount.itsvg.in)  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Mission Control
+
+**Turning imagination into interactive experiences.  
+From vision ➡️ to code ➡️ to *real world impact*.**
+
+---
+
+### 🌱 Explorer’s Log
+
+- 🗂️ Currently Building:  
+  _TaskZen_ → Android To-Do App  
+  Waste Classification AI  
+  Battery Health Estimation ML  
+  Snake Xenzia, Retro Shmup (Arcade Remixes)
+
+- 🛠️ Recent Experiments  
+  Streamlit dashboards  
+  MacOS-inspired UI themes  
+  Visual data storytelling
+
+---
+
+### 💡 What Drives Me
+
+- Making everyday tech beautiful & useful.
+- Teaching machines to learn smarter.
+- Open collaboration. Cool minds unite.
+- Bringing nostalgia back to screens.
+
+---
+
+### 🔗 Connect & Collaborate
+
+| Android | ML/AI | UI/UX | Games | Web |
+| :--: | :--: | :--: | :--: | :--: |
+| ✅ | ✅ | ✅ | ✅ | ✅ |
+
+**Let’s build, break, and innovate—together.**
+
+---
+
+## ⚙️ My Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+
+</div>
+
+_Always on the lookout for the next cool tool._
+
+---
+
+## 🏆 Achievements
+
+- Built 5+ apps from scratch, deployed & loved.
+- GitHub: <insert stats widget here>
+- Top 1% contributor in <your-community>.
+- GPRM badge, macOS vibes.
+
+---
+
+### ✨ Dev Philosophy
+
+> “Design for joy. Code for change.  
+> Ship for the future.”
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in)](https://visitcount.itsvg.in)
+
+</div>
+
+---
+
+<!--
+    Bonus: playful emoji sections, visual badges, and bold colors for a modern developer intro.
+    Add custom stats/trophies widgets, animations, or links as you like!
+-->
