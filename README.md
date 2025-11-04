@@ -76,10 +76,10 @@ _Always on the lookout for the next cool tool._
 
 ## 🏆 Achievements
 
-- Built 5+ apps from scratch, deployed & loved.
-- GitHub: <insert stats widget here>
-- Top 1% contributor in <your-community>.
-- GPRM badge, macOS vibes.
+- 🚀 Launched 5+ full-fledged apps from zero to production—designed, built, and loved by users.
+- 👥 See my developer journey in numbers:  
+  <!-- GitHub stats widget below (uncomment & update username) -->  
+  <!-- ![Gaurang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=macaroon) -->
 
 ---
 
