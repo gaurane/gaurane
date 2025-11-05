@@ -24,10 +24,9 @@ From vision ➡️ to code ➡️ to *real world impact*.**
 ### 🌱 Explorer’s Log
 
 - 🗂️ Currently Building:  
-  _TaskZen_ → Android To-Do App  
   Waste Classification AI  
   Battery Health Estimation ML  
-  Snake Xenzia, Retro Shmup (Arcade Remixes)
+  
 
 - 🛠️ Recent Experiments  
   Streamlit dashboards  
