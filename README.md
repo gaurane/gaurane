@@ -21,20 +21,6 @@ From vision ➡️ to code ➡️ to *real world impact*.**
 
 ---
 
-### 🌱 Explorer’s Log
-
-- 🗂️ Currently Building:  
-  Waste Classification AI  
-  Battery Health Estimation ML  
-  
-
-- 🛠️ Recent Experiments  
-  Streamlit dashboards  
-  MacOS-inspired UI themes  
-  Visual data storytelling
-
----
-
 ### 💡 What Drives Me
 
 - Making everyday tech beautiful & useful.
@@ -46,7 +32,7 @@ From vision ➡️ to code ➡️ to *real world impact*.**
 
 ### 🔗 Connect & Collaborate
 
-| Android | ML/AI | UI/UX | Games | Web |
+| Android | AI/ML | UI/UX | Games | Web |
 | :--: | :--: | :--: | :--: | :--: |
 | ✅ | ✅ | ✅ | ✅ | ✅ |
 
@@ -77,8 +63,8 @@ _Always on the lookout for the next cool tool._
 
 - 🚀 Launched 5+ full-fledged apps from zero to production—designed, built, and loved by users.
 - 👥 See my developer journey in numbers:  
-  <!-- GitHub stats widget below (uncomment & update username) -->  
-  <!-- ![Gaurang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=macaroon) -->
+  <! GitHub stats widget below (uncomment & update username) -->  
+  <!![Gaurang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurane&show_icons=true&theme=macaroon) -->
 
 ---
 
