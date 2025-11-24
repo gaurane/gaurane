@@ -92,7 +92,8 @@ I build things that feel **alive**, **beautiful**, and **smart**.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%">
+<!-- Stable neon divider from jsDelivr CDN -->
+<img src="https://cdn.jsdelivr.net/gh/akshaybabloo/Dividers/neon-line-1.png" width="100%">
 
 <br>
 
@@ -103,4 +104,5 @@ I build things that feel **alive**, **beautiful**, and **smart**.
 *“Creating the future, one line of code at a time.”*
 
 </div>
+
 
