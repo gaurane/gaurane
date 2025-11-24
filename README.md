@@ -1,48 +1,51 @@
 <!--
-    Gaurang's Portfolio README
-    Clean, modern, premium design.
+   Gaurang Rane — Premium Developer Portfolio README
+   Sleek • Modern • Minimal • Impactful
 -->
 
 <div align="center">
 
-<img width="120" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="Hi! I'm Gaurang">
+<img width="120" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="Avatar">
 
-# 🌌 Gaurang Rane  
-### 🦄 Code. Create. Curate.
+# 🌌 **Gaurang Rane**  
+### 🦄 *Code. Create. Curate.*
+
+<br>
 
 </div>
 
 ---
 
-## 🚀 Mission Control
+## 🚀 **Mission Control**
 
-**I turn imagination into interactive digital experiences —  
-from idea → to code → to impact.**
+**Building digital experiences that blend creativity, intelligence, and purpose.**  
+Ideas → Engineering → Real-World Impact.
 
-I build products that feel alive, meaningful, and beautifully engineered.
-
----
-
-## 💡 What Drives Me
-
-- Crafting tech that’s *useful yet aesthetic*.  
-- Teaching machines to learn smarter & faster.  
-- Open collaboration with curious builders.  
-- Bringing nostalgia + creativity back into modern interfaces.
+Crafting products that feel intuitive, meaningful, and beautifully designed.
 
 ---
 
-## 🔗 Where I Play
+## 💡 **What I Believe In**
+
+✨ Aesthetic meets function  
+🤖 Smarter machine learning  
+🎨 Interfaces that spark nostalgia  
+🤝 Collaboration with curious builders  
+🚀 Shipping fast, improving faster  
+
+---
+
+## 🔥 **Domains I Work In**
 
 | Android | AI/ML | UI/UX | Games | Web |
-| :----: | :---: | :---: | :---: | :--: |
-| ✅ | ✅ | ✅ | ✅ | ✅ |
+|:------:|:-----:|:-----:|:----:|:---:|
+| ⭐ | ⭐ | ⭐ | ⭐ | ⭐ |
 
-**Let’s build, break, and innovate—together.**
+**If it runs on a screen — I can build it.**
 
 ---
 
-## ⚙️ Tech Arsenal
+## ⚙️ **Tech Arsenal**
 
 <div align="center">
 
@@ -57,30 +60,31 @@ I build products that feel alive, meaningful, and beautifully engineered.
 
 </div>
 
-_Always exploring the next tool worth mastering._
+_Constantly upgrading — new tools excite me._
 
 ---
 
-## 🏆 Achievements
+## 🏆 **Highlights**
 
-- 🚀 Built and shipped **5+ polished apps**, from scratch to production.  
-- 📈 Growing developer profile & contributions every month.  
-- 👥 My journey in metrics:
+- 🚀 Built & shipped **5+ production-ready apps** people actually use  
+- 🧠 Strong AI/ML + Android + UI/UX foundation  
+- 🎮 Designed mini-games, creative apps & smart tools  
+- 🌱 Consistently growing as a multi-domain developer  
 
 <div align="center">
 
 <!-- Replace `gaurane` with your GitHub username -->
-<img src="https://github-readme-stats.vercel.app/api?username=gaurane&show_icons=true&theme=tokyonight" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=gaurane&show_icons=true&theme=radical" width="400" />
 
 </div>
 
 ---
 
-## ✨ Dev Philosophy
+## ✨ **Philosophy**
 
-> **“Design for joy.  
-> Code for change.  
-> Ship for the future.”**
+> **“Design with emotion.  
+> Code with intention.  
+> Build for the future.”**
 
 ---
 
