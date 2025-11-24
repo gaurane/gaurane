@@ -49,20 +49,5 @@ I'm **Gaurang Rane**, a creator who loves blending
 
 </div>
 
----
-
-## 🌈 Aesthetic Footer
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/akshaybabloo/Dividers/neon-line-1.png" width="100%">
-
-<br>
-
-[![](https://visitcount.itsvg.in)](https://visitcount.itsvg.in)
-
-<br><br>
 
 *“Creating the future, one line of code at a time.”*
-
-</div>
