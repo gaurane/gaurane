@@ -1,0 +1,280 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1430" width="1000" height="1430" font-family="Segoe UI, Verdana, sans-serif">
+
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fdf3ea"/>
+      <stop offset="100%" stop-color="#e9d9f2"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#cfe6f5"/>
+      <stop offset="14%" stop-color="#a9cfe8"/>
+      <stop offset="55%" stop-color="#4f6fa0"/>
+      <stop offset="100%" stop-color="#31456b"/>
+    </linearGradient>
+    <linearGradient id="sand" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e9d3ab"/>
+      <stop offset="100%" stop-color="#d3b787"/>
+    </linearGradient>
+    <linearGradient id="ribbon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f2a5b9"/>
+      <stop offset="50%" stop-color="#e0c6ea"/>
+      <stop offset="100%" stop-color="#a5c8e0"/>
+    </linearGradient>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#fdf8ef"/>
+    </linearGradient>
+    <clipPath id="tankClip"><rect x="30" y="230" width="940" height="420" rx="18"/></clipPath>
+    <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fff7e0"/>
+      <stop offset="100%" stop-color="#fff7e0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- ================= OUTER FRAME ================= -->
+  <rect x="0" y="0" width="1000" height="1430" fill="url(#sky)"/>
+  <rect x="10" y="10" width="980" height="1410" rx="26" fill="none" stroke="#e0c6ea" stroke-width="3" stroke-dasharray="2 10" stroke-linecap="round"/>
+
+  <!-- corner sparkles -->
+  <g fill="#f2a5b9">
+    <path d="M30,30 l4,12 l12,4 l-12,4 l-4,12 l-4,-12 l-12,-4 l12,-4 Z"/>
+    <path d="M970,30 l4,12 l12,4 l-12,4 l-4,12 l-4,-12 l-12,-4 l12,-4 Z"/>
+    <path d="M30,1400 l4,12 l12,4 l-12,4 l-4,12 l-4,-12 l-12,-4 l12,-4 Z" transform="translate(0,-30)"/>
+    <path d="M970,1400 l4,12 l12,4 l-12,4 l-4,12 l-4,-12 l-12,-4 l12,-4 Z" transform="translate(0,-30)"/>
+  </g>
+
+  <!-- ================= HEADER RIBBON ================= -->
+  <rect x="0" y="0" width="1000" height="86" fill="url(#ribbon)"/>
+  <rect x="0" y="80" width="1000" height="6" fill="#ffffff" opacity="0.6"/>
+  <text x="500" y="36" text-anchor="middle" font-size="14" letter-spacing="6" fill="#ffffff" font-weight="700">✧ ﾟ. WELCOME TO MY TINY CORNER OF GITHUB .ﾟ✧</text>
+  <text x="500" y="68" text-anchor="middle" font-size="15" fill="#fff6f9" font-style="italic">engineering student • builder • occasional overthinker</text>
+
+  <!-- ================= NAME PLAQUE ================= -->
+  <text x="500" y="150" text-anchor="middle" font-size="52" font-style="italic" font-weight="700" fill="#3d4f78">gaurang</text>
+  <text x="500" y="178" text-anchor="middle" font-size="13" letter-spacing="3" fill="#7a8aa8">TE-C AIML • D Y PATIL UNIVERSITY, NAVI MUMBAI</text>
+  <g fill="#c9a6de">
+    <circle cx="330" cy="145" r="3"/><circle cx="360" cy="120" r="2"/><circle cx="670" cy="145" r="3"/><circle cx="640" cy="120" r="2"/>
+  </g>
+
+  <!-- mood chips -->
+  <g font-size="12.5" font-weight="700" fill="#4a5b80">
+    <rect x="310" y="192" width="46" height="26" rx="13" fill="#fdf8ef"/><text x="333" y="209" text-anchor="middle">☁️</text>
+    <rect x="362" y="192" width="46" height="26" rx="13" fill="#fdf8ef"/><text x="385" y="209" text-anchor="middle">🌱</text>
+    <rect x="414" y="192" width="46" height="26" rx="13" fill="#fdf8ef"/><text x="437" y="209" text-anchor="middle">🎧</text>
+    <rect x="466" y="192" width="46" height="26" rx="13" fill="#fdf8ef"/><text x="489" y="209" text-anchor="middle">💻</text>
+    <rect x="518" y="192" width="46" height="26" rx="13" fill="#fdf8ef"/><text x="541" y="209" text-anchor="middle">🧸</text>
+    <rect x="570" y="192" width="46" height="26" rx="13" fill="#fdf8ef"/><text x="593" y="209" text-anchor="middle">🌙</text>
+  </g>
+
+  <!-- ================= FISH TANK ================= -->
+  <rect x="26" y="226" width="948" height="428" rx="22" fill="#ffffff"/>
+  <text x="500" y="216" text-anchor="middle" font-size="16" font-style="italic" font-weight="700" fill="#3d4f78">✧ gaurang&#8217;s tank ✧</text>
+  <g clip-path="url(#tankClip)">
+    <rect x="30" y="230" width="940" height="420" fill="url(#water)"/>
+
+    <!-- moon glow + light rays -->
+    <circle cx="880" cy="270" r="60" fill="url(#moonGlow)" opacity="0.5"/>
+    <circle cx="880" cy="270" r="22" fill="#fffaf0" opacity="0.85"/>
+
+    <g opacity="0.25" fill="#ffffff">
+      <rect x="120" y="230" width="50" height="420" transform="skewX(-12)"/>
+      <rect x="430" y="230" width="50" height="420" transform="skewX(-12)"/>
+      <rect x="740" y="230" width="50" height="420" transform="skewX(-12)"/>
+    </g>
+
+    <!-- jellyfish -->
+    <g transform="translate(160,290)">
+      <ellipse cx="0" cy="0" rx="18" ry="14" fill="#f2e3f5" opacity="0.9"/>
+      <path d="M -12,10 Q -9,24 -12,32 M -4,12 Q 0,26 -4,34 M 5,12 Q 9,26 5,34 M 12,10 Q 15,24 12,32" stroke="#e0c6ea" stroke-width="2" fill="none" opacity="0.7"/>
+    </g>
+    <g transform="translate(650,330) scale(0.8)">
+      <ellipse cx="0" cy="0" rx="18" ry="14" fill="#f2e3f5" opacity="0.85"/>
+      <path d="M -12,10 Q -9,24 -12,32 M -4,12 Q 0,26 -4,34 M 5,12 Q 9,26 5,34 M 12,10 Q 15,24 12,32" stroke="#e0c6ea" stroke-width="2" fill="none" opacity="0.7"/>
+    </g>
+
+    <!-- thought bubble -->
+    <g transform="translate(50,290)">
+      <rect x="0" y="0" width="190" height="64" rx="16" fill="#ffffff" opacity="0.92"/>
+      <circle cx="22" cy="70" r="7" fill="#ffffff" opacity="0.92"/>
+      <circle cx="12" cy="82" r="4" fill="#ffffff" opacity="0.92"/>
+      <text x="16" y="24" font-size="16" font-style="italic" font-weight="700" fill="#3d4f78">currently ☁️</text>
+      <text x="16" y="42" font-size="11" fill="#48587e">learning something new,</text>
+      <text x="16" y="56" font-size="11" fill="#48587e">building &amp; collecting ideas.</text>
+    </g>
+
+    <!-- fish 1: ReUseIt -->
+    <g transform="translate(220,400)">
+      <ellipse cx="0" cy="0" rx="30" ry="17" fill="#e07f98"/>
+      <path d="M -27,0 L -46,-13 L -46,13 Z" fill="#e07f98"/>
+      <path d="M -7,-10 Q 5,-21 16,-10 Z" fill="#ffffff" opacity="0.55"/>
+      <circle cx="14" cy="-3" r="2.8" fill="#2f3a4f"/>
+      <rect x="-34" y="20" width="96" height="18" rx="9" fill="rgba(40,55,90,0.65)"/>
+      <text x="14" y="33" text-anchor="middle" font-size="11.5" font-weight="700" fill="#ffffff">♻️ ReUseIt</text>
+    </g>
+
+    <!-- fish 2: Smart Waste Segregation (facing left) -->
+    <g transform="translate(760,470) scale(-1,1)">
+      <ellipse cx="0" cy="0" rx="30" ry="17" fill="#7fae8c"/>
+      <path d="M -27,0 L -46,-13 L -46,13 Z" fill="#7fae8c"/>
+      <path d="M -7,-10 Q 5,-21 16,-10 Z" fill="#ffffff" opacity="0.55"/>
+      <circle cx="14" cy="-3" r="2.8" fill="#2f3a4f"/>
+      <g transform="scale(-1,1)">
+        <rect x="-78" y="20" width="156" height="18" rx="9" fill="rgba(40,55,90,0.65)"/>
+        <text x="0" y="33" text-anchor="middle" font-size="11.5" font-weight="700" fill="#ffffff">🗑️ Smart Waste Segregation</text>
+      </g>
+    </g>
+
+    <!-- fish 3: App Experiments -->
+    <g transform="translate(430,560)">
+      <ellipse cx="0" cy="0" rx="27" ry="15" fill="#f2b866"/>
+      <path d="M -24,0 L -41,-11 L -41,11 Z" fill="#f2b866"/>
+      <path d="M -6,-9 Q 4,-18 13,-9 Z" fill="#ffffff" opacity="0.55"/>
+      <circle cx="12" cy="-3" r="2.4" fill="#2f3a4f"/>
+      <rect x="-29" y="18" width="112" height="17" rx="8" fill="rgba(40,55,90,0.65)"/>
+      <text x="27" y="30" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">📱 App Experiments</text>
+    </g>
+
+    <!-- fish 4: little idea -->
+    <g transform="translate(870,410) scale(-0.75,0.75)">
+      <ellipse cx="0" cy="0" rx="27" ry="15" fill="#a58ce0"/>
+      <path d="M -24,0 L -41,-11 L -41,11 Z" fill="#a58ce0"/>
+      <circle cx="12" cy="-3" r="2.6" fill="#2f3a4f"/>
+      <g transform="scale(-1,1)">
+        <rect x="-64" y="18" width="88" height="19" rx="9" fill="rgba(40,55,90,0.65)"/>
+        <text x="-20" y="32" text-anchor="middle" font-size="11.5" font-weight="700" fill="#ffffff">🐟 idea</text>
+      </g>
+    </g>
+
+    <!-- fish 5: bonus tiny school -->
+    <g transform="translate(300,340) scale(0.4)"><ellipse cx="0" cy="0" rx="27" ry="15" fill="#f7c2cf"/><path d="M -24,0 L -41,-11 L -41,11 Z" fill="#f7c2cf"/><circle cx="12" cy="-3" r="2.6" fill="#2f3a4f"/></g>
+    <g transform="translate(330,355) scale(0.35) scale(-1,1)"><ellipse cx="0" cy="0" rx="27" ry="15" fill="#f7c2cf"/><path d="M -24,0 L -41,-11 L -41,11 Z" fill="#f7c2cf"/><circle cx="12" cy="-3" r="2.6" fill="#2f3a4f"/></g>
+    <g transform="translate(280,365) scale(0.3)"><ellipse cx="0" cy="0" rx="27" ry="15" fill="#f7c2cf"/><path d="M -24,0 L -41,-11 L -41,11 Z" fill="#f7c2cf"/><circle cx="12" cy="-3" r="2.6" fill="#2f3a4f"/></g>
+
+    <!-- bubbles (static, scattered) -->
+    <g fill="#ffffff" opacity="0.85">
+      <circle cx="90" cy="500" r="4"/><circle cx="150" cy="420" r="3"/><circle cx="200" cy="470" r="5"/>
+      <circle cx="380" cy="440" r="3"/><circle cx="470" cy="390" r="4"/><circle cx="560" cy="460" r="3"/>
+      <circle cx="640" cy="400" r="5"/><circle cx="720" cy="440" r="3"/><circle cx="810" cy="380" r="4"/>
+      <circle cx="900" cy="450" r="3"/><circle cx="500" cy="300" r="3"/><circle cx="250" cy="280" r="3"/>
+    </g>
+
+    <!-- sand -->
+    <rect x="30" y="612" width="940" height="38" fill="url(#sand)"/>
+    <ellipse cx="120" cy="624" rx="15" ry="7" fill="#c9b48b"/>
+    <ellipse cx="700" cy="622" rx="19" ry="9" fill="#c9b48b"/>
+    <ellipse cx="420" cy="626" rx="11" ry="5" fill="#c9b48b"/>
+    <ellipse cx="850" cy="624" rx="13" ry="6" fill="#c9b48b"/>
+
+    <!-- seaweed -->
+    <g stroke-linecap="round" fill="none">
+      <path d="M 60,615 Q 44,570 60,520" stroke="#5f8f70" stroke-width="11"/>
+      <path d="M 86,615 Q 72,580 86,545" stroke="#7fae8c" stroke-width="9"/>
+      <path d="M 320,615 Q 306,584 320,555" stroke="#7fae8c" stroke-width="9"/>
+      <path d="M 520,615 Q 500,562 520,505" stroke="#5f8f70" stroke-width="11"/>
+      <path d="M 546,615 Q 532,576 546,540" stroke="#7fae8c" stroke-width="9"/>
+      <path d="M 900,615 Q 886,584 900,555" stroke="#7fae8c" stroke-width="9"/>
+    </g>
+
+    <!-- treasure chest -->
+    <g transform="translate(200,590)">
+      <rect x="-32" y="16" width="64" height="24" rx="6" fill="#8a5a2b" stroke="#5f3c1a" stroke-width="2"/>
+      <path d="M -32,16 Q -32,-6 0,-6 Q 32,-6 32,16 Z" fill="#a86a34" stroke="#5f3c1a" stroke-width="2"/>
+      <circle cx="0" cy="16" r="4" fill="#f2c94c"/>
+      <text x="0" y="58" text-anchor="middle" font-size="11" fill="#eef6fb">next project ⏳</text>
+    </g>
+
+    <!-- shells decor -->
+    <g fill="#f0c9d4"><path d="M780,620 q10,-24 20,0 q-10,8 -20,0 Z"/></g>
+    <g fill="#f2d9a3"><path d="M950,618 q9,-20 18,0 q-9,7 -18,0 Z"/></g>
+  </g>
+
+  <!-- ================= STATS ROW ================= -->
+  <g>
+    <rect x="30" y="682" width="220" height="70" rx="16" fill="url(#cardBg)" stroke="#f0e6f7" stroke-width="2"/>
+    <text x="140" y="712" text-anchor="middle" font-size="22" font-weight="700" fill="#3d4f78">20</text>
+    <text x="140" y="732" text-anchor="middle" font-size="11" fill="#7a8aa8">years young</text>
+
+    <rect x="264" y="682" width="220" height="70" rx="16" fill="url(#cardBg)" stroke="#f0e6f7" stroke-width="2"/>
+    <text x="374" y="712" text-anchor="middle" font-size="22" font-weight="700" fill="#3d4f78">TE-C AIML</text>
+    <text x="374" y="732" text-anchor="middle" font-size="11" fill="#7a8aa8">C3 batch, DYPU</text>
+
+    <rect x="498" y="682" width="220" height="70" rx="16" fill="url(#cardBg)" stroke="#f0e6f7" stroke-width="2"/>
+    <text x="608" y="712" text-anchor="middle" font-size="18" font-weight="700" fill="#3d4f78">SIG-AI</text>
+    <text x="608" y="732" text-anchor="middle" font-size="11" fill="#7a8aa8">webmaster, RAIT ACM</text>
+
+    <rect x="732" y="682" width="238" height="70" rx="16" fill="url(#cardBg)" stroke="#f0e6f7" stroke-width="2"/>
+    <text x="851" y="712" text-anchor="middle" font-size="18" font-weight="700" fill="#3d4f78">@gaurane</text>
+    <text x="851" y="732" text-anchor="middle" font-size="11" fill="#7a8aa8">github handle</text>
+  </g>
+
+  <!-- ================= THINGS I ENJOY BUILDING ================= -->
+  <text x="500" y="800" text-anchor="middle" font-size="22" font-weight="700" fill="#3d4f78">🌷 things i enjoy building</text>
+  <g font-size="12.5" fill="#5a6a8a">
+    <rect x="30" y="822" width="220" height="86" rx="16" fill="url(#cardBg)" stroke="#f0e6f7" stroke-width="2"/>
+    <text x="140" y="852" text-anchor="middle" font-size="20">🎨</text>
+    <text x="140" y="874" text-anchor="middle" font-weight="700" fill="#3d4f78">pretty things</text>
+    <text x="140" y="892" text-anchor="middle" font-size="10.5">clean interfaces</text>
+
+    <rect x="264" y="822" width="220" height="86" rx="16" fill="url(#cardBg)" stroke="#f0e6f7" stroke-width="2"/>
+    <text x="374" y="852" text-anchor="middle" font-size="20">🧠</text>
+    <text x="374" y="874" text-anchor="middle" font-weight="700" fill="#3d4f78">smart things</text>
+    <text x="374" y="892" text-anchor="middle" font-size="10.5">AI &amp; ML experiments</text>
+
+    <rect x="498" y="822" width="220" height="86" rx="16" fill="url(#cardBg)" stroke="#f0e6f7" stroke-width="2"/>
+    <text x="608" y="852" text-anchor="middle" font-size="20">📱</text>
+    <text x="608" y="874" text-anchor="middle" font-weight="700" fill="#3d4f78">useful things</text>
+    <text x="608" y="892" text-anchor="middle" font-size="10.5">apps &amp; tools</text>
+
+    <rect x="732" y="822" width="238" height="86" rx="16" fill="url(#cardBg)" stroke="#f0e6f7" stroke-width="2"/>
+    <text x="851" y="852" text-anchor="middle" font-size="20">🌱</text>
+    <text x="851" y="874" text-anchor="middle" font-weight="700" fill="#3d4f78">new things</text>
+    <text x="851" y="892" text-anchor="middle" font-size="10.5">learning &amp; exploring</text>
+  </g>
+
+  <!-- ================= PROJECTS ================= -->
+  <text x="500" y="960" text-anchor="middle" font-size="22" font-weight="700" fill="#3d4f78">🍓 things i&#8217;ve been working on</text>
+
+  <rect x="30" y="984" width="455" height="112" rx="16" fill="url(#cardBg)" stroke="#f0e6f7" stroke-width="2"/>
+  <text x="54" y="1018" font-size="18" font-weight="700" fill="#3d4f78">♻️ ReUseIt</text>
+  <text x="54" y="1040" font-size="11.5" fill="#5a6a8a">Marketplace &amp; decision-support system</text>
+  <text x="54" y="1056" font-size="11.5" fill="#5a6a8a">for industrial &amp; construction waste.</text>
+  <rect x="54" y="1068" width="86" height="18" rx="9" fill="#e9f2ec"/><text x="97" y="1081" text-anchor="middle" font-size="10" fill="#4a7a5f">building...</text>
+
+  <rect x="515" y="984" width="455" height="112" rx="16" fill="url(#cardBg)" stroke="#f0e6f7" stroke-width="2"/>
+  <text x="539" y="1018" font-size="18" font-weight="700" fill="#3d4f78">🗑️ Smart Waste Segregation</text>
+  <text x="539" y="1040" font-size="11.5" fill="#5a6a8a">Image-based classification project for</text>
+  <text x="539" y="1056" font-size="11.5" fill="#5a6a8a">identifying different waste types.</text>
+  <rect x="539" y="1068" width="112" height="18" rx="9" fill="#f2ece0"/><text x="595" y="1081" text-anchor="middle" font-size="10" fill="#a06a2e">experimenting...</text>
+
+  <rect x="30" y="1108" width="455" height="94" rx="16" fill="url(#cardBg)" stroke="#f0e6f7" stroke-width="2"/>
+  <text x="54" y="1142" font-size="18" font-weight="700" fill="#3d4f78">📱 App Experiments</text>
+  <text x="54" y="1164" font-size="11.5" fill="#5a6a8a">Small apps, interfaces &amp; random ideas</text>
+  <text x="54" y="1180" font-size="11.5" fill="#5a6a8a">that occasionally turn into real projects.</text>
+
+  <rect x="515" y="1108" width="455" height="94" rx="16" fill="url(#cardBg)" stroke="#f0e6f7" stroke-width="2"/>
+  <text x="539" y="1142" font-size="18" font-weight="700" fill="#3d4f78">☁️ Next Project</text>
+  <text x="539" y="1164" font-size="11.5" fill="#5a6a8a">Something new is probably cooking</text>
+  <text x="539" y="1180" font-size="11.5" fill="#5a6a8a">somewhere...</text>
+
+  <!-- ================= TOOLBOX ================= -->
+  <text x="500" y="1250" text-anchor="middle" font-size="22" font-weight="700" fill="#3d4f78">🌿 my little toolbox</text>
+  <text x="500" y="1272" text-anchor="middle" font-size="11.5" font-style="italic" fill="#7a8aa8">things i&#8217;ve played with along the way ♡</text>
+
+  <g font-size="12.5" font-weight="700" fill="#4a5b80">
+    <rect x="65" y="1292" width="92" height="32" rx="16" fill="#fdf8ef"/><text x="111" y="1312" text-anchor="middle">🐍 Python</text>
+    <rect x="167" y="1292" width="80" height="32" rx="16" fill="#fdf8ef"/><text x="207" y="1312" text-anchor="middle">☕ Java</text>
+    <rect x="257" y="1292" width="80" height="32" rx="16" fill="#fdf8ef"/><text x="297" y="1312" text-anchor="middle">🌐 Web</text>
+    <rect x="347" y="1292" width="104" height="32" rx="16" fill="#fdf8ef"/><text x="399" y="1312" text-anchor="middle">🧠 AI / ML</text>
+    <rect x="461" y="1292" width="84" height="32" rx="16" fill="#fdf8ef"/><text x="503" y="1312" text-anchor="middle">📊 Data</text>
+    <rect x="555" y="1292" width="80" height="32" rx="16" fill="#fdf8ef"/><text x="595" y="1312" text-anchor="middle">📱 Apps</text>
+    <rect x="645" y="1292" width="88" height="32" rx="16" fill="#fdf8ef"/><text x="689" y="1312" text-anchor="middle">🎨 Design</text>
+    <rect x="743" y="1292" width="86" height="32" rx="16" fill="#fdf8ef"/><text x="786" y="1312" text-anchor="middle">☁️ Flutter</text>
+    <rect x="839" y="1292" width="96" height="32" rx="16" fill="#fdf8ef"/><text x="887" y="1312" text-anchor="middle">🧊 Blender</text>
+  </g>
+
+  <!-- ================= CURRENTLY ================= -->
+  <rect x="30" y="1360" width="940" height="34" rx="17" fill="url(#ribbon)" opacity="0.85"/>
+  <text x="500" y="1382" text-anchor="middle" font-size="12.5" fill="#ffffff" font-weight="600">🌱 learning something new  •  💻 building something  •  🎧 listening to lo-fi  •  💭 collecting ideas</text>
+
+  <text x="500" y="1416" text-anchor="middle" font-size="12" font-style="italic" fill="#6b7aa0">one idea • one commit • one day at a time  —  ♡ thanks for stopping by ♡</text>
+</svg>
