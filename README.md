@@ -75,13 +75,20 @@ Attendance bunk calculator for students — Flutter · Hive · Provider, glassmo
 
 ### 📊 GitHub Stats
 
+<!-- 
+  IMPORTANT: these three URLs point at a placeholder domain.
+  Once you deploy your own github-readme-stats instance to Vercel
+  (with the PAT_1 env var set), replace "your-vercel-project" below
+  with your actual Vercel project domain.
+-->
+
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gaurane&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&bg_color=0F0C29&title_color=A78BFA&icon_color=38BDF8&text_color=94A3B8&ring_color=EC4899" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=gaurane&theme=tokyonight&hide_border=true&border_radius=14&background=0F0C29&ring=A78BFA&fire=EC4899&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8&stroke=0F0C29" width="48%" />
+  <img src="https://your-vercel-project.vercel.app/api?username=gaurane&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&bg_color=0F0C29&title_color=A78BFA&icon_color=38BDF8&text_color=94A3B8&ring_color=EC4899" width="48%" />
+  <img src="https://your-vercel-project.vercel.app/api/wakatime?username=gaurane&theme=tokyonight&hide_border=true&border_radius=14&bg_color=0F0C29&title_color=A78BFA&text_color=94A3B8" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gaurane&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&bg_color=0F0C29&title_color=A78BFA&text_color=94A3B8" width="42%" />
+  <img src="https://your-vercel-project.vercel.app/api/top-langs/?username=gaurane&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&bg_color=0F0C29&title_color=A78BFA&text_color=94A3B8" width="42%" />
 </div>
 
 ---
