@@ -21,7 +21,6 @@
 
 I'm **Gaurang Rane** — a 20-year-old builder obsessed with the sweet spot between **AI, design, and playful ideas**. I turn imagination into digital experiences: intelligent apps, warm interfaces, and tools that feel alive.
 
-
 ---
 
 ### 🛠️ Stack
@@ -77,12 +76,12 @@ Attendance bunk calculator for students — Flutter · Hive · Provider, glassmo
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurane&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&bg_color=0F0C29&title_color=A78BFA&icon_color=38BDF8&text_color=94A3B8&ring_color=EC4899" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurane&theme=tokyonight&hide_border=true&border_radius=14&background=0F0C29&ring=A78BFA&fire=EC4899&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8&stroke=0F0C29" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gaurane&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&bg_color=0F0C29&title_color=A78BFA&icon_color=38BDF8&text_color=94A3B8&ring_color=EC4899" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=gaurane&theme=tokyonight&hide_border=true&border_radius=14&background=0F0C29&ring=A78BFA&fire=EC4899&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8&stroke=0F0C29" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurane&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&bg_color=0F0C29&title_color=A78BFA&text_color=94A3B8" width="42%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gaurane&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&bg_color=0F0C29&title_color=A78BFA&text_color=94A3B8" width="42%" />
 </div>
 
 ---
