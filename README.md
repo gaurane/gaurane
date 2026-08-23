@@ -86,7 +86,7 @@ Sometimes that's the fun part.
 
 <div align="center">
 
-## 🌷 things i enjoy building
+##🌷 things i enjoy building
 
 </div>
 
@@ -95,7 +95,7 @@ Sometimes that's the fun part.
 
 <td align="center" width="25%">
 <br>
-### 🎨
+###🎨
 **pretty things**
 <br>
 <sub>clean interfaces<br>simple experiences</sub>
@@ -104,7 +104,7 @@ Sometimes that's the fun part.
 
 <td align="center" width="25%">
 <br>
-### 🧠
+###🧠
 **smart things**
 <br>
 <sub>AI & ML<br>little experiments</sub>
@@ -113,7 +113,7 @@ Sometimes that's the fun part.
 
 <td align="center" width="25%">
 <br>
-### 📱
+###📱
 **useful things**
 <br>
 <sub>apps & tools<br>ideas made real</sub>
@@ -122,7 +122,7 @@ Sometimes that's the fun part.
 
 <td align="center" width="25%">
 <br>
-### 🌱
+###🌱
 **new things**
 <br>
 <sub>learning<br>exploring</sub>
@@ -136,7 +136,7 @@ Sometimes that's the fun part.
 
 <div align="center">
 
-## 🍓 things i've been working on
+##🍓 things i've been working on
 
 </div>
 
@@ -145,7 +145,7 @@ Sometimes that's the fun part.
 <tr>
 <td width="50%" valign="top">
 
-### ♻️ ReUseIt
+###♻️ ReUseIt
 
 A marketplace and decision-support idea
 for giving construction and industrial waste
