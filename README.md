@@ -86,7 +86,7 @@ Sometimes that's the fun part.
 
 <div align="center">
 
-##🌷 things i enjoy building
+<h2>🌷 things i enjoy building</h2>
 
 </div>
 
@@ -94,211 +94,162 @@ Sometimes that's the fun part.
 <tr>
 
 <td align="center" width="25%">
-<br>
-###🎨
-**pretty things**
-<br>
-<sub>clean interfaces<br>simple experiences</sub>
-<br><br>
+
+<h3>🎨 <strong>pretty things</strong></h3>
+
+<sub>clean interfaces</sub><br> <sub>simple experiences</sub>
+
+<br><br>☁️
+
 </td>
 
 <td align="center" width="25%">
-<br>
-###🧠
-**smart things**
-<br>
-<sub>AI & ML<br>little experiments</sub>
-<br><br>
+
+<h3>🧠 <strong>smart things</strong></h3>
+
+<sub>AI & ML</sub><br> <sub>little experiments</sub>
+
+<br><br>☁️
+
 </td>
 
 <td align="center" width="25%">
-<br>
-###📱
-**useful things**
-<br>
-<sub>apps & tools<br>ideas made real</sub>
-<br><br>
+
+<h3>📱 <strong>useful things</strong></h3>
+
+<sub>apps & tools</sub><br> <sub>ideas made real</sub>
+
+<br><br>☁️
+
 </td>
 
 <td align="center" width="25%">
-<br>
-###🌱
-**new things**
-<br>
-<sub>learning<br>exploring</sub>
-<br><br>
+
+<h3>🌱 <strong>new things</strong></h3>
+
+<sub>learning</sub><br> <sub>exploring</sub>
+
+<br><br>☁️
+
 </td>
 
 </tr>
 </table>
 
----
+<hr>
 
 <div align="center">
 
-##🍓 things i've been working on
+<h2>🍓 things i've been working on</h2>
 
 </div>
 
 <table align="center">
 
 <tr>
+
 <td width="50%" valign="top">
 
-###♻️ ReUseIt
+<h3>♻️ ReUseIt</h3>
 
-A marketplace and decision-support idea
-for giving construction and industrial waste
-a **second life**.
+A marketplace & decision-support system
+for industrial and construction waste management.
 
-`♻️` `🗺️` `🏗️`
+<br><br>
 
-**status:** `building...`
+<code>♻️ building...</code>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🗑️ Smart Waste Segregation
+<h3>🗑️ Smart Waste Segregation</h3>
 
-A small computer-vision project that
-looks at waste and tries to figure out
-**what it is.**
+An image-based project that identifies
+and classifies different types of waste.
 
-`📷` `🧠` `♻️`
+<br><br>
 
-**status:** `experimenting...`
+<code>🧠 experimenting...</code>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 📱 App experiments
+<h3>📱 App Experiments</h3>
 
-Small apps, interfaces and ideas that
-start as *"what if..."* and occasionally
-turn into something real.
+Small apps, interfaces and random ideas
+that occasionally turn into real projects.
 
-`📱` `🧩` `☁️`
+<br><br>
 
-**status:** `always cooking`
+<code>🌱 in progress</code>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💭 Next project
+<h3>☁️ Next Project</h3>
 
-Currently hiding somewhere between
-my notes app, my brain and
-a suspicious number of tabs.
+Something new is probably cooking somewhere...
 
-`👀` `🍳` `⏳`
+<br><br>
 
-**status:** `loading...`
+<code>⏳ loading...</code>
 
 </td>
+
 </tr>
 
 </table>
 
----
+<hr>
 
 <div align="center">
 
-## 🌿 my little toolbox
+<h2>🌿 my little toolbox</h2>
 
-<sub>not a tech stack. just things i've played with ♡</sub>
+<sub>things i've played with along the way ♡</sub>
 
 <br><br>
 
-|  🌱 | things                  |
-| :-: | :---------------------- |
-|  🐍 | Python                  |
-|  ☕  | Java                    |
-|  🌐 | HTML • CSS • JavaScript |
-|  🧠 | Machine Learning        |
-|  📊 | Data & Visualization    |
-|  📱 | App Development         |
-|  🎨 | UI / Design             |
-| 🗄️ | MySQL                   |
-|  🐙 | Git & GitHub            |
+<table>
+<tr>
+<td align="center">🐍<br><strong>Python</strong></td>
+<td align="center">☕<br><strong>Java</strong></td>
+<td align="center">🌐<br><strong>Web</strong></td>
+<td align="center">🧠<br><strong>AI / ML</strong></td>
+<td align="center">📊<br><strong>Data</strong></td>
+<td align="center">📱<br><strong>Apps</strong></td>
+<td align="center">🎨<br><strong>Design</strong></td>
+</tr>
+</table>
 
 </div>
 
----
+<hr>
 
 <div align="center">
 
-## ☁️ github garden
+<h2>☁️ currently</h2>
 
 <br>
 
-### 🌱 things grow slowly.
-
-```text
-                 ✦
-          ☁️            ✦
-
-      🌱        🌿        🌱
-     /  \      /  \      /  \
-    /____\    /____\    /____\
-
-   ─────────────────────────────
-        one commit at a time
-   ─────────────────────────────
-```
-
-<br>
-
-**I don't really believe in having everything figured out.**
-
-Sometimes you learn.
-Sometimes you build.
-Sometimes you delete the whole thing and start again.
-
-Both count.
-
-</div>
-
----
-
-<div align="center">
-
-## 🌙 currently
-
-<br>
-
-`🎧 listening to something`
-
-`☕ probably drinking something`
-
-`💻 building something`
-
-`💭 thinking about the next thing`
-
-<br>
-
-─────────────── ୨୧ ───────────────
-
-<br>
-
-### ✦ a tiny reminder ✦
-
-**good things take time.**
-
-<br>
-
-`૮ ˶ᵔ ᵕ ᵔ˶ ა`
-
-<br>
-
-<sub>thanks for visiting my little corner of the internet ♡</sub>
+🌱 learning something new   •  
+💻 building something   •  
+🎧 listening to lo-fi   •  
+💭 collecting ideas
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn" width="100%"/>
+<em>one idea • one commit • one day at a time.</em>
+
+<br><br>
+
+♡ thanks for stopping by ♡
 
 </div>
