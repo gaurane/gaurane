@@ -1,6 +1,6 @@
 <div align="center">
 
-# ୨୧ ────── 𝑔𝒶𝓊𝓇𝒶𝓃𝑔 ────── ୨୧
+# ୨୧ ────── gaurang^^ ────── ୨୧
 ### `hello! welcome to my tiny corner of github ♡`
 
 **engineering student • builder • occasional overthinker**
