@@ -3,12 +3,6 @@
 # ୨୧ ────── 𝑔𝒶𝓊𝓇𝒶𝓃𝑔 ────── ୨୧
 ### `hello! welcome to my tiny corner of github ♡`
 
-<br>
-
-<img src="https://raw.githubusercontent.com/gaurane/gaurane/main/assets/fishtank_static.svg" width="100%"/>
-
-<br>
-
 **engineering student • builder • occasional overthinker**
 `☁️` `🌱` `🎧` `💻` `🧸` `🌙`
 
