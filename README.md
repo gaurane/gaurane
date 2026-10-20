@@ -203,7 +203,4 @@ somewhere in the oven ~ `( ˘▽˘)っ♨`
   <img src="https://count.getloli.com/@gaurane?name=gaurane&theme=moebooru&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="cute profile visitor counter"/>
 </p>
 <p align="center"><sub>✿ you're one of them now, hiii ✿</sub></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A6C1EE,50:F8D8E8,100:FBC2EB&height=110&section=footer" width="100%"/>
 </p>
