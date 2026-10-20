@@ -1,7 +1,11 @@
 <!-- ♡ header ♡ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBC2EB,50:F8D8E8,100:A6C1EE&height=190&section=header&text=gaurang%5E%5E&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9%20welcome%20to%20my%20tiny%20corner%20%E2%9C%A9%C2%B0%EF%BD%A1%E2%8B%86&descAlignY=56&descSize=16&animation=twinkling" width="100%"/>
-</p>
+<div align="center">
+
+# ୨୧ ⋆｡˚ gaurang^^ ˚｡⋆ ୨୧
+
+<sub>⋆｡°✩ welcome to my tiny corner of github ✩°｡⋆</sub>
+
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=900&color=F49AC2&center=true&vCenter=true&width=520&lines=hiii+%E2%99%A1+i'm+gaurang+(%E2%97%95%E2%80%BF%E2%97%95%E2%9C%BF);engineering+student+%E2%80%A2+tiny+builder+%F0%9F%8C%B7;occasional+overthinker+%E2%98%81%EF%B8%8F;turning+random+ideas+into+real+things+%E2%9C%A8" alt="typing intro"/>
