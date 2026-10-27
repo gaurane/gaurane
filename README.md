@@ -124,7 +124,7 @@ giving old materials a second life 🌿
 </td>
 <td width="50%" valign="top">
 
-### 🗑️ Smart Waste Segregation
+### 🗑️ BinSight
 an image-based project that looks at waste
 and gently sorts it into the right bin `(•ᴗ•)ゝ`
 
