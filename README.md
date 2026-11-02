@@ -5,6 +5,9 @@
 
 <sub>⋆｡°✩ welcome to my tiny corner of github ✩°｡⋆</sub>
 
+<a href="https://gaurangrane.vercel.app/">
+  <img src="https://img.shields.io/badge/%E2%99%A1%20visit%20my%20website%20%E2%99%A1-F49AC2?style=flat-square&labelColor=FFF0F5"/>
+</a>
 </div>
 
 <p align="center">
